@@ -3,10 +3,11 @@ layout: single
 title: >-
   Selective setAccessible permissions using Byte Buddy and the Java
   SecurityManager
+author_profile: true
+date: 2016-07-19
 tags:
   - java
   - security
-date: 2016-07-19
 ---
 
 
